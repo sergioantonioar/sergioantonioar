@@ -1,5 +1,6 @@
 # 💫 About Me:
-Estudiante de Ingeniería de Software | Apasionado por el Desarrollo de Soluciones<br>Soy estudiante de Ingeniería de Software con más de 2 años de experiencia creando proyectos personales y académicos. Me enfoco en el desarrollo backend, diseñando y construyendo sistemas eficientes y escalables que resuelvan problemas reales.
+Software Engineering Student | Passionate about Solution Development
+I am a Software Engineering student with more than 2 years of experience creating personal and academic projects. I focus on backend development, designing and building efficient and scalable systems that solve real problems.
 
 
 
